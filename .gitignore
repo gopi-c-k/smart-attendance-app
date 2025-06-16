@@ -1,0 +1,9 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.idea/
+pubspec.lock
+
+# Node.js
+backend/node_modules/
+backend/.env
