@@ -12,7 +12,7 @@ class UserData {
     REGISTERNUMBER = prefs.getString('registerNumber') ?? '';
   }
 }
-final url = 'https://6718-2409-408d-213-d1be-650b-aa65-9e1d-c54e.ngrok-free.app/';
+final url = 'https://attendance-server-dgmw.onrender.com/';
 //final url = 'http://localhost:2000/';
 
 //final StudentLoginRouters = 'https://bde0-2409-408d-61b-cb95-87fb-fab-f2a2-d74e.ngrok-free.app/StudentLogin';

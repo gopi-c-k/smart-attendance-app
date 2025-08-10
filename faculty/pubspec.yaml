@@ -45,7 +45,7 @@ dependencies:
   web_socket_channel: ^2.1.0
   shelf: ^1.1.1
   shelf_web_socket: ^1.0.4
-  flutter_mdns_plugin: ^0.0.3
+  network_info_plus: ^4.1.0
   nsd: ^2.3.1
   flutter_nsd: ^1.4.0
   multicast_dns: ^0.3.2+6
